@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nohan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="nohan-ahmed" /> </p>
 - 🔭 I’m currently working on [IdeaVerse](https://github.com/Nohan-Ahmed/IdeaVerse)
 
-- 🌱 I’m currently learning **Django rest farmework**
+- 🌱 I’m currently learning **React js**
 
 - 🤝 I’m looking for help with **to build your products**
 
