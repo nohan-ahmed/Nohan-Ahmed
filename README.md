@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nohan-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="nohan-ahmed" /> </p>
 - 🔭 I’m currently working on [Docoria](https://github.com/nohan-ahmed/docoria)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 🤝 I’m looking for help with **to build your products**
 
