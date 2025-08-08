@@ -25,19 +25,17 @@
 
 ## About Me
 
-```diff
 - Passionate about crafting clean, scalable, and futuristic software solutions.
 - Self-taught, dedicated, and continuously learning to push the boundaries of technology.
 - Specialized in backend development, automation, and modern web technologies.
-````
 
----
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Animation" width="600" />
 </p>
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -50,7 +48,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -62,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohan-ahmed&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
+
 
 ## 🔥 Contribution Heatmap
 
@@ -78,7 +76,7 @@
   <img src="https://profile-counter.glitch.me/nohan-ahmed/count.svg" alt="Visitor Count" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -93,14 +91,6 @@
 
 Feel free to reach out via email or social media. I’m always open to discussing new projects, ideas, or collaborations.
 
----
 
 *© 2025 Polash Pramanik. All rights reserved.*
 
-```
-
----
-
-জাস্ট ডাউনলোড করে তোমার রিপোতে **README.md** ফাইলটা আপলোড করে ফেলো।  
-আর যদি চাও আমি তোমার রিপোতে সরাসরি আপলোড করে দিতে পারি, সেটা বলো!
-```
