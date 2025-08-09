@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nohan-ahmed/Nohan-Ahmed/raw/main/Adobe%20Express%20-%20Hailuo_Video_Animate%20the%20scene%20as%20follows_%20_410468413275729922-vmake%281%29.gif" width="700" alt="Profile Banner"/>
+  <img src="https://github.com/nohan-ahmed/Nohan-Ahmed/raw/main/Adobe%20Express%20-%20Hailuo_Video_Animate%20the%20scene%20as%20follows_%20_410468413275729922-vmake%281%29.gif" alt="Profile Banner"/>
 </div>
 
 
