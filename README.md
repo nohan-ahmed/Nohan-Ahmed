@@ -12,7 +12,8 @@
 
 ## 👋 About Me
 
-Hi, I’m ANG13T — a passionate developer focused on satellite technology and Mars exploration projects. I love building cutting-edge software that pushes the boundaries of space tech and IoT.
+I am a passionate software developer who loves turning ideas into real solutions. Always eager to learn and grow. Besides coding, I enjoy playing football in my free time.
+
 
 ---
 
@@ -82,8 +83,8 @@ Hi, I’m ANG13T — a passionate developer focused on satellite technology and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANG13T&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANG13T&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nohan-ahmed&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nohan-ahmed&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -91,43 +92,30 @@ Hi, I’m ANG13T — a passionate developer focused on satellite technology and 
 ## 📝 Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANG13T&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nohan-ahmed&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔭 What I’m Working On
 
-Currently diving deep into advanced satellite data analysis and autonomous drone mapping using AI.
+I am currently developing the Halum-Hut multi-vendor e-commerce platform for my client 🛒💻.
 
 ---
 
 ## ☕ 0x02 > Support My Work
 <p>
-  <a href="https://www.paypal.com/paypalme/atsuboi01">
+  <a href="#">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
   </a>
-  <a href="https://cash.app/$G4LXY">
+  <a href="#">
     <img src="https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white" alt="Cash App">
   </a>
-  <a href="https://www.buymeacoffee.com/angelinatsuboi">
+  <a href="https://buymeacoffee.com/polashpramanik">
     <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge" alt="Buy Me a Coffee">
   </a>
 </p>
 
-<details>
-  <summary>💰 Cryptocurrency Wallets</summary>
-  <br />
-  
-  | Currency          | Wallet Address                                                                                               |
-  |-------------------|--------------------------------------------------------------------------------------------------------------|
-  | **Bitcoin (BTC)** | `bc1qqzsrdz8qa3xe2rp7aajrm88fqge9xxs3v8xu4h`                                                                  |
-  | **Ethereum (ETH)**| `0x43edF701622F4F1174F322dC8D2f5AbdA642275a`                                                                  |
-  | **XRP Ledger (XRP)** | `rNKP3PXSstJnhUgUskNKaXWhd7ueiss6Mn`                                                                       |
-  | **BNB**           | `bnb1t49kkmutyvnsc8xv7r5mu9tfu2u66qhcmqaurw`                                                                  |
-  | **Monero (XMR)**  | `4717EuNPoTrTQsiLdGSDAMAJQcze6mVuE8KmBhL9RFT43Xe2FsxWSQtc5trrfdYPS5aUjB8gJApwURcRmMFdccBCJPfeD8M`              |
-  | **Solana (SOL)**  | `FcrRBcvWsqdVZpS9ZZ6Dt476QA1L95cdh7GqgUGX5RpH`                                                                 |
-</details>
 
 ---
 
