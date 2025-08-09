@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="https://github.com/ANG13T/ANG13T/blob/master/images/banner.png" width="700" alt="Profile Banner"/>
+  <img src="https://github.com/nohan-ahmed/Nohan-Ahmed/raw/main/Adobe%20Express%20-%20Hailuo_Video_Animate%20the%20scene%20as%20follows_%20_410468413275729922-vmake%281%29.gif" width="700" alt="Profile Banner"/>
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=$+Developer+focused+on+satellites+and+Mars+initiatives" alt="Typing Animation">
-  </a>
-</p>
 
 ---
 
