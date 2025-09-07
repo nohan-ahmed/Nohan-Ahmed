@@ -71,9 +71,6 @@ I am a passionate software developer who loves turning ideas into real solutions
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nohan-ahmed&repo=hospital-management&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="hospital-management"/>
   </a>
     </a>
-  <a href="https://github.com/nohan-ahmed/IdeaVerse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nohan-ahmed&repo=IdeaVerse&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="IdeaVerse"/>
-  </a>
   <a href="https://github.com/nohan-ahmed/e-commerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nohan-ahmed&repo=e-commerce&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="e-commerce"/>
   </a>
