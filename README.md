@@ -64,7 +64,7 @@ I am a passionate software developer who loves turning ideas into real solutions
 ## 🌌 0x01 > Notable Projects
 
 <p>
-  <a href="https://github.com/nohan-ahmed/halum_hut/">
+  <a href="https://github.com/nohan-ahmed/halum_hut">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nohan-ahmed&repo=halum-hut&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9" alt="halum-hut"/>
   </a>
   <a href="https://github.com/nohan-ahmed/hospital-management">
