@@ -11,7 +11,7 @@ I am a passionate software developer who loves turning ideas into real solutions
 
 - 🔭 Working on an **[E-Commerce Platform](https://github.com/nohan-ahmed/e-commerce)** for my company.
 
-- 🌱 I’m currently learning: **Generative AI**
+- 🌱 I’m currently learning: **Generative AI, Pydantic && FastAPI**
 
 - 💬 Ask me about: **Python, Django, Django rest framework(DRF), Vue.js**
 
