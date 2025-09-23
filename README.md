@@ -9,7 +9,7 @@
 
 I am a passionate software developer who loves turning ideas into real solutions. Always eager to learn and grow. Besides coding, I enjoy playing football in my free time.
 
-- 🔭 Working on an **[E-Commerce Platform](https://github.com/nohan-ahmed/e-commerce)** for my company.
+- 🔭 Working on an **[Selfory AI Platform](https://github.com/nohan-ahmed/selfory)** for my company.
 
 - 🌱 I’m currently learning: **Generative AI, Pydantic & FastAPI**
 
